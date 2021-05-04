@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/darkbotbbl/.local/share/virtualenvs/CodeWars-qiWs09Lo/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
