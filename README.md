@@ -144,3 +144,9 @@ Example:
 create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) # => returns "(123) 456-7890"
 The returned format must be correct in order to complete this challenge.
 Don't forget the space after the closing parentheses!
+
+
+## Moving Zeros To The End
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+
+move_zeros([1, 0, 1, 2, 0, 1, 3]) # returns [1, 1, 2, 1, 3, 0, 0]
